@@ -12,7 +12,7 @@
 #
 # Chris Boursnell (cmb211@cam.ac.uk)
 # v1 created: 12/07/2013
-#    updated: 17/07/2013
+# v3 updated: 17/07/2013
 #
 
 # How?
